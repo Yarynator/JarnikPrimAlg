@@ -1,0 +1,18 @@
+﻿<Window x:Class="JarnikPrim.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JarnikPrim"
+        mc:Ignorable="d"
+        Title="JarnikPrimAlg" Height="500" Width="800" ResizeMode="NoResize">
+    <Grid>
+        <Canvas x:Name="canvas" Margin="0,0,0,50" Background="#FFFEFFE6" MouseDown="Canvas_MouseDown"/>
+        <Label Name="label" Content="Actual Mode: Placing nodes" Margin="0,422,564,-23"/>
+        <Button Name="resetBtn" Content="Reset" HorizontalAlignment="Left" Margin="665,416,0,0" VerticalAlignment="Top" Height="41" Width="101" Click="resetBtn_Click"/>
+        <Button Name="connectBtn" Content="Connect Nodes" HorizontalAlignment="Left" Margin="559,416,0,0" VerticalAlignment="Top" Height="41" Width="101" Click="connectBtn_Click"/>
+        <Button Name="placeBtn" Content="Place Node" HorizontalAlignment="Left" Margin="453,416,0,0" VerticalAlignment="Top" Height="41" Width="101" Click="placeBtn_Click"/>
+        <Button Name="start" Content="Start" HorizontalAlignment="Left" Margin="347,416,0,0" VerticalAlignment="Top" Height="41" Width="101" Click="start_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+C:\Users\Yarynator\Documents\VisualStudioProjects\JarnikPrim\JarnikPrim\bin\Debug\JarnikPrim.exe.config
+C:\Users\Yarynator\Documents\VisualStudioProjects\JarnikPrim\JarnikPrim\bin\Debug\JarnikPrim.exe
+C:\Users\Yarynator\Documents\VisualStudioProjects\JarnikPrim\JarnikPrim\bin\Debug\JarnikPrim.pdb
+C:\Users\Yarynator\Documents\VisualStudioProjects\JarnikPrim\JarnikPrim\obj\Debug\JarnikPrim.csproj.AssemblyReference.cache
+C:\Users\Yarynator\Documents\VisualStudioProjects\JarnikPrim\JarnikPrim\obj\Debug\JarnikPrim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yarynator\Documents\VisualStudioProjects\JarnikPrim\JarnikPrim\obj\Debug\MainWindow.g.cs
+C:\Users\Yarynator\Documents\VisualStudioProjects\JarnikPrim\JarnikPrim\obj\Debug\App.g.cs
+C:\Users\Yarynator\Documents\VisualStudioProjects\JarnikPrim\JarnikPrim\obj\Debug\JarnikPrim_MarkupCompile.cache
+C:\Users\Yarynator\Documents\VisualStudioProjects\JarnikPrim\JarnikPrim\obj\Debug\JarnikPrim_MarkupCompile.lref
+C:\Users\Yarynator\Documents\VisualStudioProjects\JarnikPrim\JarnikPrim\obj\Debug\MainWindow.baml
+C:\Users\Yarynator\Documents\VisualStudioProjects\JarnikPrim\JarnikPrim\obj\Debug\JarnikPrim.g.resources
+C:\Users\Yarynator\Documents\VisualStudioProjects\JarnikPrim\JarnikPrim\obj\Debug\JarnikPrim.Properties.Resources.resources
+C:\Users\Yarynator\Documents\VisualStudioProjects\JarnikPrim\JarnikPrim\obj\Debug\JarnikPrim.csproj.GenerateResource.cache
+C:\Users\Yarynator\Documents\VisualStudioProjects\JarnikPrim\JarnikPrim\obj\Debug\JarnikPrim.csproj.CoreCompileInputs.cache
+C:\Users\Yarynator\Documents\VisualStudioProjects\JarnikPrim\JarnikPrim\obj\Debug\JarnikPrim.exe
+C:\Users\Yarynator\Documents\VisualStudioProjects\JarnikPrim\JarnikPrim\obj\Debug\JarnikPrim.pdb
